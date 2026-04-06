@@ -1,0 +1,12 @@
+[github]
+username = "mehadave"
+repo_name = "project-a-day"
+
+[agent]
+default_difficulty = "medium"
+build_hour = 9
+build_minute = 0
+
+[projects]
+# Leave base_dir empty to use AIProjectAgent/projects/ automatically
+base_dir = ""
